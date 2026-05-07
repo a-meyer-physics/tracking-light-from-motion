@@ -42,8 +42,7 @@ so the visualization shows how changing the charge or acceleration changes the o
 
 ## Limitations
 
-This project is a conceptual visualization, not a full solution to Maxwell’s equations. The dipole pattern and wave animation are simplified so the main idea is easier to see and interact with.
-I also hope this helps me not just be a better student in the future, but also a better teacher.
+This project is a conceptual visualization, not a full solution to Maxwell’s equations. The dipole pattern and wave animation are simplified so the main idea is easier to see and interact with. I also hope this helps me not just be a better student in the future, but also a better teacher.
 
 ## What I Learned
 
