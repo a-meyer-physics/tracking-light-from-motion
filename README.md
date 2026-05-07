@@ -1,7 +1,7 @@
 # Tracking Light from Motion  
 ## A Visual Exploration of Charged Particle Radiation Using Python
 
-This project visualizes radiation from an accelerating charged particle using Python. My main goal was to take one of the first big abstractions you run into in physics — electromagnetic radiation — and make it feel more intuitive.
+This project visualizes radiation from an accelerating charged particle using Python. My main goal was to take one of the first big abstractions you run into in physics,  electromagnetic radiation, and make it feel more intuitive.
 
 A lot of the time in physics, you are handed an equation and expected to believe that it describes something real. I wanted this project to make the radiation pattern feel less like a static formula and more like something you can actually explore.
 
